@@ -1,0 +1,15 @@
+| Package      | Purpose                             |
+| ------------ | ----------------------------------- |
+| torch        | deep learning backend               |
+| monai        | medical imaging DL framework        |
+| torchio      | preprocessing & augmentation        |
+| antspyx      | ANTs registration                   |
+| nibabel      | read `.nii.gz` MRI files            |
+| SimpleITK    | alternative medical imaging toolkit |
+| scikit-image | image processing                    |
+| matplotlib   | visualization                       |
+| tqdm         | progress bars                       |
+
+
+
+

@@ -1,0 +1,27 @@
+torch
+torchvision
+torchaudio
+
+monai
+torchio
+antspyx
+
+nibabel
+SimpleITK
+
+numpy
+scipy
+pandas
+
+matplotlib
+scikit-image
+
+tqdm
+
+ipykernel
+
+
+#optional
+# itkwidgets
+# einops
+# tensorboard
