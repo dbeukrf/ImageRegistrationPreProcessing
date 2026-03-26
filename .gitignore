@@ -11,5 +11,8 @@ wheels/
 imaging-env
 notebook-env
 
+# Environment variables
+.env
+
 # Notebooks
 .ipynb_checkpoints/

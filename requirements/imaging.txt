@@ -20,6 +20,8 @@ tqdm
 
 ipykernel
 
+kagglehub # for downloading datasets from Kaggle
+
 
 #optional
 # itkwidgets
